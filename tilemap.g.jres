@@ -1,0 +1,154 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDQwNDA0MDIwMjAyMDIwMjA0MDQwNDAyMDIwNDAyMDIwMjAyMDEwMjA0MDIwMjAyMDIwMjA0MDIwMjA0MDIwMjAyMDIwNDA0MDQwNDA0MDIwNDA0MDQwNDAyMDQwMTAzMDIwMjAyMDIwMjAyMDQwMjAxMDIwMjA0MDIwNDAyMDIwMjAyMDIwNDAxMDQwNDAyMDQwNDAyMDQwMTA0MDIwMjAyMDQwNDA0MDIwMjA0MDIwNDAyMDIwMjAyMDIwMjAyMDIwNDAyMDIwMjAyMDIwMjA0MDQwNDAxMDQwMjAyMDIwMjAxMDIwNDAyMDIwNDAyMDIwMjAyMDIwNDA0MDIwMjAyMDQwNDA0MDQwMjA0MDQwNDAxMDQwMjA0MDQwNDAyMDIwMjAyMDQwMjAyMDIwMjA0MDIwNDAyMDQwMjAyMDIwMjA0MDQwNDAyMDIwMjAyMDQwMjA0MDQwNDAyMDIwMjAyMDQwMjA0MDIwMTA0MDQwNDAyMDIwMjA0MDIwMjAyMDIwNDAyMDIwMjA0MDIwMjAyMDIwMjAyMDQwNDAyMDIwMjAxMDQwNDA0MDQwMjAyMDIwMjA0MDQwNDA0MDQwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIyMDIyMDIwMDIwMDAwMDIwMDAyMDIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.builtin.forestTiles4",
+            "sprites.castle.shrub",
+            "sprites.skillmap.islandTile4"
+        ],
+        "displayName": "Grundlæggende tilemap"
+    },
+    "level2": {
+        "id": "level2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDIwMjAyMDIwMjAxMDEwMTAyMDIwMTAyMDIwMjAyMDEwMjAxMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAyMDIwMTAxMDEwMTAxMDIwMTAxMDEwMTAyMDEwMzA0MDIwMjAyMDIwMjAyMDEwMjAzMDIwMjAxMDIwMTAyMDIwMjAyMDIwMTAzMDEwMTAyMDEwMTAyMDEwMzAxMDIwMjAyMDEwMTAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMjAyMDIwMTAyMDIwMjAyMDIwMjAxMDEwMTAzMDEwMjAyMDIwMjAzMDIwMTAyMDIwMTAyMDIwMjAyMDIwMTAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTAzMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAyMDIwMjAxMDIwMTAyMDEwMjAyMDIwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDIwMzAxMDEwMTAyMDIwMjAxMDIwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAzMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIyMDIyMDIwMDIwMDAwMDIwMDAyMDIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.forestTiles4",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.castle.shrub"
+        ],
+        "displayName": "Tilemap1"
+    },
+    "level3": {
+        "id": "level3",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDIwMjAyMDIwMjAxMDEwMTAyMDIwMTAyMDIwMjAyMDEwMjAxMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAyMDIwMTAxMDEwMTAxMDIwMTAxMDEwMTAyMDEwMzA0MDIwMjAyMDIwMjAyMDEwMjAzMDIwMjAxMDIwMTAyMDIwMjAyMDIwMTAxMDEwMTAyMDEwMTAyMDEwMzAxMDIwMjAyMDEwMTAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMjAyMDIwMTAyMDIwMjAyMDIwMjAxMDEwMTAzMDEwMjAyMDIwMjAzMDIwMTAyMDIwMTAyMDIwMjAyMDIwMTAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTAzMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAyMDIwMjAxMDIwMTAyMDEwMjAyMDIwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDIwMzAxMDEwMTAyMDIwMjAxMDIwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAzMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIyMDIyMDIwMDIwMDAwMDIwMDAyMDIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.forestTiles4",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.castle.shrub"
+        ],
+        "displayName": "Tilemap 2"
+    },
+    "level4": {
+        "id": "level4",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDIwMjAyMDIwMjAxMDEwMTAyMDIwMTAyMDIwMjAyMDEwMjAxMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAyMDIwMTAxMDEwMTAxMDIwMTAxMDEwMTAyMDEwNDAzMDIwMjAyMDIwMjAyMDEwMjA0MDIwMjAxMDIwMTAyMDIwMjAyMDIwMTAxMDEwMTAyMDEwMTAyMDEwNDAxMDIwMjAyMDEwMTAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMjAyMDIwMTAyMDIwMjAyMDIwMjAxMDEwMTA0MDEwMjAyMDIwMjAxMDIwMTAyMDIwMTAyMDIwMjAyMDIwMTAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTA0MDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAyMDIwMjAxMDIwMTAyMDEwMjAyMDIwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDIwNDAxMDEwMTAyMDIwMjAxMDIwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjA0MDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIyMDIyMDIwMDIwMDAwMDIwMDAyMDIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.forestTiles4",
+            "sprites.castle.shrub",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "Tilemap3"
+    },
+    "Tilemap 1": {
+        "id": "Tilemap 1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDIwMjAyMDIwMjAxMDEwMTAyMDIwMTAyMDIwMjAyMDEwMjAxMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAyMDIwMTAxMDEwMTAxMDIwMTAxMDEwMTAyMDEwMzA0MDIwMjAyMDIwMjAyMDEwMjAzMDIwMjAxMDIwMTAyMDIwMjAyMDIwMTAxMDEwMTAyMDEwMTAyMDEwMzAxMDIwMjAyMDEwMTAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMjAyMDIwMTAyMDIwMjAyMDIwMjAxMDEwMTAzMDEwMjAyMDIwMjAxMDIwMTAyMDIwMTAyMDIwMjAyMDIwMTAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTAzMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAyMDIwMjAxMDIwMTAyMDEwMjAyMDIwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDIwMzAxMDEwMTAyMDIwMjAxMDIwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIyMDIyMDIwMDIwMDAwMDIwMDAyMDIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.forestTiles4",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.castle.shrub"
+        ],
+        "displayName": "Tilemap 4"
+    },
+    "Tilemap2": {
+        "id": "Tilemap2",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDIwMjAyMDIwMjAxMDEwMTAyMDIwMTAyMDIwMjAyMDEwMjAxMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAyMDIwMTAxMDEwMTAxMDIwMTAxMDEwMTAyMDEwMzA0MDIwMjAyMDIwMjAyMDEwMjAzMDIwMjAxMDIwMTAyMDIwMjAyMDIwMTAxMDEwMTAyMDEwMTAyMDEwMzAxMDIwMjAyMDEwMTAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMjAyMDIwMTAyMDIwMjAyMDIwMjAxMDEwMTAzMDEwMjAyMDIwMjAxMDIwMTAyMDIwMTAyMDIwMjAyMDIwMTAxMDEwMjAyMDEwMTAxMDEwMjAxMDEwMTAzMDEwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAxMDIwMTAyMDEwMjAyMDIwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDIwMTAxMDEwMTAyMDIwMjAxMDIwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIwMDIwMDIwMDIwMDAwMDIwMjAyMjIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.forestTiles4",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.castle.shrub"
+        ],
+        "displayName": "Tilemap5"
+    },
+    "Tilemap 3": {
+        "id": "Tilemap 3",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDIwMjAyMDIwMjAxMDEwMTAyMDIwMTAyMDIwMjAyMDEwMjAxMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAyMDIwMTAxMDEwMTAxMDIwMTAxMDEwMTAyMDEwNDAzMDIwMjAyMDIwMjAyMDEwMjA0MDIwMjAxMDIwMTAyMDIwMjAyMDIwMTAxMDEwMTAyMDEwMTAyMDEwNDAxMDIwMjAyMDEwMTAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMjAyMDIwMTAyMDIwMjAyMDIwMjAxMDEwMTA0MDEwMjAyMDIwMjAxMDIwMTAyMDIwMTAyMDIwMjAyMDIwMTAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTAxMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAyMDIwMjAxMDIwMTAyMDEwMjAyMDIwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDIwMTAxMDEwMTAyMDIwMjAxMDIwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIyMDIyMDIwMDIwMDAwMDIwMDAyMDIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.forestTiles4",
+            "sprites.castle.shrub",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "Tilemap 6"
+    },
+    "Tilemap 5": {
+        "id": "Tilemap 5",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDIwMjAyMDIwMjAxMDEwMTAyMDIwMTAyMDIwMjAyMDEwMjAxMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAyMDIwMTAxMDEwMTAxMDIwMTAxMDEwMTAyMDEwMzA0MDIwMjAyMDIwMjAyMDEwMjAzMDIwMjAxMDIwMTAyMDIwMjAyMDIwMTAxMDEwMTAyMDEwMTAyMDEwMzAxMDIwMjAyMDEwMTAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMjAyMDIwMTAyMDIwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDIwMTAyMDIwMTAyMDIwMjAyMDIwMTAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTAxMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAyMDIwMjAxMDIwMTAyMDEwMjAyMDIwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDIwMTAxMDEwMTAyMDIwMjAxMDIwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIyMDIyMDIwMDIwMDAwMDIwMDAyMDIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.forestTiles4",
+            "sprites.dungeon.collectibleInsignia",
+            "sprites.castle.shrub"
+        ],
+        "displayName": "Tilemap 7"
+    },
+    "level5": {
+        "id": "level5",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDIwMjAyMDIwMjAxMDEwMTAyMDIwMTAyMDIwMjAyMDEwMjAxMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAyMDIwMTAxMDEwMTAxMDIwMTAxMDEwMTAyMDEwNDAzMDIwMjAyMDIwMjAyMDEwMjAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMTAxMDEwMTAyMDEwMTAyMDEwNDAxMDIwMjAyMDEwMTAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMjAyMDIwMTAyMDIwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDIwMTAyMDIwMTAyMDIwMjAyMDIwMTAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTAxMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAyMDIwMjAxMDIwMTAyMDEwMjAyMDIwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDIwMTAxMDEwMTAyMDIwMjAxMDIwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIyMDIyMDIwMDIwMDAwMDIwMDAyMDIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.forestTiles4",
+            "sprites.castle.shrub",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "Tilemap 8"
+    },
+    "level6": {
+        "id": "level6",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDIwMjAyMDIwMjAxMDEwMTAyMDIwMTAyMDIwMjAyMDEwMjAxMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAyMDIwMTAxMDEwMTAxMDIwMTAxMDEwMTAyMDEwNDAzMDIwMjAyMDIwMjAyMDEwMjAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMTAxMDEwMTAyMDEwMTAyMDEwMTAxMDIwMjAyMDEwMTAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMjAyMDIwMTAyMDIwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDIwMTAyMDIwMTAyMDIwMjAyMDIwMTAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTAxMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAyMDIwMjAxMDIwMTAyMDEwMjAyMDIwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDIwMTAxMDEwMTAyMDIwMjAxMDIwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIyMDIyMDIwMDIwMDAwMDIwMDAyMDIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.forestTiles4",
+            "sprites.castle.shrub",
+            "sprites.dungeon.collectibleInsignia"
+        ],
+        "displayName": "Tilemap 9"
+    },
+    "Tilemap4": {
+        "id": "Tilemap4",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDEwMTAxMDIwMjAyMDIwMjAxMDEwMTAyMDIwMTAyMDIwMjAyMDEwMjAxMDIwMjAyMDIwMjAxMDIwMjAxMDIwMjAyMDIwMTAxMDEwMTAxMDIwMTAxMDEwMTAyMDEwMTAzMDIwMjAyMDIwMjAyMDEwMjAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMTAxMDEwMTAyMDEwMTAyMDEwMTAxMDIwMjAyMDEwMTAxMDIwMjAxMDIwMTAyMDIwMjAyMDIwMjAyMDIwMTAyMDIwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDIwMTAyMDIwMTAyMDIwMjAyMDIwMTAyMDIwMjAyMDEwMTAxMDEwMjAxMDEwMTAxMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAyMDIwMjAxMDIwMTAyMDEwMjAyMDIwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDEwMTAyMDIwMjAyMDEwMjAxMDIwMTAxMDEwMTAyMDIwMjAxMDIwMjAyMDIwMTAyMDIwMjAxMDIwMjAyMDIwMjAyMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAxMDEwMTAxMDEwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMjIyMjIyMjIyMjIyMjIyMjAwMjAyMjIyMDAyMDAyMjIyMjIwMjAyMjIyMjAwMjIyMjIwMDAwMjAwMDAwMDIwMDIyMjIyMjIwMjAwMjAyMjIyMjAyMDAyMDAwMDIwMDIyMDIwMDIyMjAyMDIyMjIyMjAyMjIyMjIyMDAwMDIwMjIwMjAyMjIyMDIyMjIyMDIyMDIwMDIwMDAwMDIwMDAyMDIyMDIyMjIyMjAyMDIwMjIwMjAwMjIyMjIwMDAyMDIyMDIwMjAyMDAyMDIyMjAyMjAyMjIwMjIyMjIyMjIwMjIwMjAwMDAyMjIyMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.skillmap.islandTile4",
+            "sprites.builtin.forestTiles4",
+            "sprites.castle.shrub"
+        ],
+        "displayName": "Tilemap10"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
