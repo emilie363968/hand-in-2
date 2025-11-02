@@ -1,73 +1,181 @@
 function Question4 () {
-    Q1 = game.askForString("Lille dyr i junglen, der hopper langt?", 24)
-    if (Q1 == "frøen") {
+    Question = game.askForString("Lille dyr i junglen, der hopper langt?", 24)
+    if (Question == "frøen") {
         game.splash("Tillykke! Du har fået et point...")
         info.changeScoreBy(1)
         tiles.setCurrentTilemap(tilemap`Tilemap 4`)
     } else {
-        game.splash("Øv! Forkert svar")
-        info.changeLifeBy(-1)
-        tiles.setCurrentTilemap(tilemap`Tilemap 4`)
+        if (Question == "Frøen") {
+            game.splash("Tillykke! Du har fået et point...")
+            info.changeScoreBy(1)
+            tiles.setCurrentTilemap(tilemap`Tilemap 4`)
+        } else {
+            if (Question == "frø") {
+                game.splash("Tillykke! Du har fået et point...")
+                info.changeScoreBy(1)
+                tiles.setCurrentTilemap(tilemap`Tilemap 4`)
+            } else {
+                if (Question == "Frø") {
+                    game.splash("Tillykke! Du har fået et point...")
+                    info.changeScoreBy(1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 4`)
+                } else {
+                    game.splash("Øv! Forkert svar")
+                    info.changeLifeBy(-1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 4`)
+                }
+            }
+        }
     }
 }
 function Question2 () {
-    Q1 = game.askForString("Største edderkop i Amazonas?", 24)
-    if (Q1 == "fugleedderkoppen") {
+    Question = game.askForString("Største edderkop i Amazonas?", 24)
+    if (Question == "fugleedderkoppen") {
         game.splash("Tillykke! Du har fået et point...")
         info.changeScoreBy(1)
         tiles.setCurrentTilemap(tilemap`Tilemap 2`)
     } else {
-        game.splash("Øv! Forkert svar")
-        info.changeLifeBy(-1)
-        tiles.setCurrentTilemap(tilemap`Tilemap 2`)
+        if (Question == "Fugleedderkoppen") {
+            game.splash("Tillykke! Du har fået et point...")
+            info.changeScoreBy(1)
+            tiles.setCurrentTilemap(tilemap`Tilemap 2`)
+        } else {
+            if (Question == "fugleedderkop") {
+                game.splash("Tillykke! Du har fået et point...")
+                info.changeScoreBy(1)
+                tiles.setCurrentTilemap(tilemap`Tilemap 2`)
+            } else {
+                if (Question == "Fugleedderkop") {
+                    game.splash("Tillykke! Du har fået et point...")
+                    info.changeScoreBy(1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 2`)
+                } else {
+                    game.splash("Øv! Forkert svar")
+                    info.changeLifeBy(-1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 2`)
+                }
+            }
+        }
     }
 }
 function Question1 () {
-    Q1 = game.askForString("Det langsomste dyr i regnskoven?", 24)
-    if (Q1 == "dovendyret") {
+    Question = game.askForString("Det langsomste dyr i regnskoven?", 24)
+    if (Question == "dovendyret") {
         game.splash("Tillykke! Du har fået et point...")
         info.changeScoreBy(1)
         tiles.setCurrentTilemap(tilemap`Tilemap1`)
     } else {
-        game.splash("Øv! Forkert svar")
-        info.changeLifeBy(-1)
-        tiles.setCurrentTilemap(tilemap`Tilemap1`)
+        if (Question == "Dovendyret") {
+            game.splash("Tillykke! Du har fået et point...")
+            info.changeScoreBy(1)
+            tiles.setCurrentTilemap(tilemap`Tilemap1`)
+        } else {
+            if (Question == "dovendyr") {
+                game.splash("Tillykke! Du har fået et point...")
+                info.changeScoreBy(1)
+                tiles.setCurrentTilemap(tilemap`Tilemap1`)
+            } else {
+                if (Question == "Dovendyr") {
+                    game.splash("Tillykke! Du har fået et point...")
+                    info.changeScoreBy(1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap1`)
+                } else {
+                    game.splash("Øv! Forkert svar")
+                    info.changeLifeBy(-1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap1`)
+                }
+            }
+        }
     }
 }
 function Question6 () {
-    Q1 = game.askForString("Kropsdel aben svinger sig med?", 24)
-    if (Q1 == "halen") {
+    Question = game.askForString("Kropsdel aben svinger sig med?", 24)
+    if (Question == "halen") {
         game.splash("Tillykke! Du har fået et point...")
         info.changeScoreBy(1)
         tiles.setCurrentTilemap(tilemap`Tilemap 6`)
     } else {
-        game.splash("Øv! Forkert svar")
-        info.changeLifeBy(-1)
-        tiles.setCurrentTilemap(tilemap`Tilemap 6`)
+        if (Question == "Halen") {
+            game.splash("Tillykke! Du har fået et point...")
+            info.changeScoreBy(1)
+            tiles.setCurrentTilemap(tilemap`Tilemap 6`)
+        } else {
+            if (Question == "hale") {
+                game.splash("Tillykke! Du har fået et point...")
+                info.changeScoreBy(1)
+                tiles.setCurrentTilemap(tilemap`Tilemap 6`)
+            } else {
+                if (Question == "Hale") {
+                    game.splash("Tillykke! Du har fået et point...")
+                    info.changeScoreBy(1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 6`)
+                } else {
+                    game.splash("Øv! Forkert svar")
+                    info.changeLifeBy(-1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 6`)
+                }
+            }
+        }
     }
 }
 function Question5 () {
-    Q1 = game.askForString("Største slange i Amazonas?", 24)
-    if (Q1 == "anakondaen") {
+    Question = game.askForString("Største slange i Amazonas?", 24)
+    if (Question == "anakondaen") {
         game.splash("Tillykke! Du har fået et point...")
         info.changeScoreBy(1)
         tiles.setCurrentTilemap(tilemap`Tilemap5`)
     } else {
-        game.splash("Øv! Forkert svar")
-        info.changeLifeBy(-1)
-        tiles.setCurrentTilemap(tilemap`Tilemap5`)
+        if (Question == "Anakondaen") {
+            game.splash("Tillykke! Du har fået et point...")
+            info.changeScoreBy(1)
+            tiles.setCurrentTilemap(tilemap`Tilemap5`)
+        } else {
+            if (Question == "anakonda") {
+                game.splash("Tillykke! Du har fået et point...")
+                info.changeScoreBy(1)
+                tiles.setCurrentTilemap(tilemap`Tilemap5`)
+            } else {
+                if (Question == "Anakonda") {
+                    game.splash("Tillykke! Du har fået et point...")
+                    info.changeScoreBy(1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap5`)
+                } else {
+                    game.splash("Øv! Forkert svar")
+                    info.changeLifeBy(-1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap5`)
+                }
+            }
+        }
     }
 }
 function Question10 () {
-    Q1 = game.askForString("Hvilken fugl i regnskoven har et stort og farverigt næb? ", 24)
-    if (Q1 == "tukanen") {
+    Question = game.askForString("Fugl med langt og farverigt næb? ", 24)
+    if (Question == "tukanen") {
         game.splash("Tillykke! Du har fået et point...")
         info.changeScoreBy(1)
         tiles.setCurrentTilemap(tilemap`Tilemap10`)
     } else {
-        game.splash("Øv! Forkert svar")
-        info.changeLifeBy(-1)
-        tiles.setCurrentTilemap(tilemap`Tilemap 9`)
+        if (Question == "Tukanen") {
+            game.splash("Tillykke! Du har fået et point...")
+            info.changeScoreBy(1)
+            tiles.setCurrentTilemap(tilemap`Tilemap10`)
+        } else {
+            if (Question == "tukan") {
+                game.splash("Tillykke! Du har fået et point...")
+                info.changeScoreBy(1)
+                tiles.setCurrentTilemap(tilemap`Tilemap10`)
+            } else {
+                if (Question == "Tukan") {
+                    game.splash("Tillykke! Du har fået et point...")
+                    info.changeScoreBy(1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap10`)
+                } else {
+                    game.splash("Øv! Forkert svar")
+                    info.changeLifeBy(-1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap10`)
+                }
+            }
+        }
     }
 }
 scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.collectibleInsignia, function () {
@@ -95,15 +203,33 @@ scene.onOverlapTile(SpriteKind.Player, sprites.dungeon.collectibleInsignia, func
     questionNumber += 1
 })
 function Question3 () {
-    Q1 = game.askForString("Kropsdel kamæleoner bruger til fangst?", 24)
-    if (Q1 == "tungen") {
+    Question = game.askForString("Kropsdel kamæleoner bruger til fangst?", 24)
+    if (Question == "tungen") {
         game.splash("Tillykke! Du har fået et point...")
         info.changeScoreBy(1)
         tiles.setCurrentTilemap(tilemap`Tilemap3`)
     } else {
-        game.splash("Øv! Forkert svar")
-        info.changeLifeBy(-1)
-        tiles.setCurrentTilemap(tilemap`Tilemap3`)
+        if (Question == "Tungen") {
+            game.splash("Tillykke! Du har fået et point...")
+            info.changeScoreBy(1)
+            tiles.setCurrentTilemap(tilemap`Tilemap3`)
+        } else {
+            if (Question == "tunge") {
+                game.splash("Tillykke! Du har fået et point...")
+                info.changeScoreBy(1)
+                tiles.setCurrentTilemap(tilemap`Tilemap3`)
+            } else {
+                if (Question == "Tunge") {
+                    game.splash("Tillykke! Du har fået et point...")
+                    info.changeScoreBy(1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap3`)
+                } else {
+                    game.splash("Øv! Forkert svar")
+                    info.changeLifeBy(-1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap3`)
+                }
+            }
+        }
     }
 }
 info.onLifeZero(function () {
@@ -111,50 +237,103 @@ info.onLifeZero(function () {
     game.gameOver(false)
 })
 scene.onOverlapTile(SpriteKind.Player, sprites.castle.shrub, function () {
+    game.splash("Flot klaret! Du overlevede junglen")
     game.gameOver(true)
     game.setGameOverEffect(true, effects.confetti)
-    game.splash("Flot klaret! Du overlevede junglen")
 })
 function Question9 () {
-    Q1 = game.askForString("Hvilket dyr bor i junglen og har det kraftigste bid blandt kattedyr?", 24)
-    if (Q1 == "jaguaren") {
+    Question = game.askForString("Hvilket kattedyr har kraftigst bid?", 24)
+    if (Question == "jaguaren") {
         game.splash("Tillykke! Du har fået et point...")
         info.changeScoreBy(1)
         tiles.setCurrentTilemap(tilemap`Tilemap 9`)
     } else {
-        game.splash("Øv! Forkert svar")
-        info.changeLifeBy(-1)
-        tiles.setCurrentTilemap(tilemap`Tilemap 9`)
+        if (Question == "Jaguaren") {
+            game.splash("Tillykke! Du har fået et point...")
+            info.changeScoreBy(1)
+            tiles.setCurrentTilemap(tilemap`Tilemap 9`)
+        } else {
+            if (Question == "jaguar") {
+                game.splash("Tillykke! Du har fået et point...")
+                info.changeScoreBy(1)
+                tiles.setCurrentTilemap(tilemap`Tilemap 9`)
+            } else {
+                if (Question == "Jaguar") {
+                    game.splash("Tillykke! Du har fået et point...")
+                    info.changeScoreBy(1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 9`)
+                } else {
+                    game.splash("Øv! Forkert svar")
+                    info.changeLifeBy(-1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 9`)
+                }
+            }
+        }
     }
 }
 function Question8 () {
-    Q1 = game.askForString("Hvilket dyr i regnskoven kan hænge med hovedet nedad og sove hele dagen?", 24)
-    if (Q1 == "flagermusen") {
+    Question = game.askForString("Hvilket dyr sover med hovedet nedad om dagen?", 24)
+    if (Question == "flagermusen") {
         game.splash("Tillykke! Du har fået et point...")
         info.changeScoreBy(1)
         tiles.setCurrentTilemap(tilemap`Tilemap 8`)
     } else {
-        game.splash("Øv! Forkert svar")
-        info.changeLifeBy(-1)
-        tiles.setCurrentTilemap(tilemap`Tilemap 8`)
+        if (Question == "Flagermusen") {
+            game.splash("Tillykke! Du har fået et point...")
+            info.changeScoreBy(1)
+            tiles.setCurrentTilemap(tilemap`Tilemap 8`)
+        } else {
+            if (Question == "flagermus") {
+                game.splash("Tillykke! Du har fået et point...")
+                info.changeScoreBy(1)
+                tiles.setCurrentTilemap(tilemap`Tilemap 8`)
+            } else {
+                if (Question == "Flagermus") {
+                    game.splash("Tillykke! Du har fået et point...")
+                    info.changeScoreBy(1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 8`)
+                } else {
+                    game.splash("Øv! Forkert svar")
+                    info.changeLifeBy(-1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 8`)
+                }
+            }
+        }
     }
 }
 function Question7 () {
-    Q1 = game.askForString("Dyr der snakker som menneske?", 24)
-    if (Q1 == "papegøjen") {
+    Question = game.askForString("Dyr der snakker som menneske?", 24)
+    if (Question == "papegøjen") {
         game.splash("Tillykke! Du har fået et point...")
         info.changeScoreBy(1)
         tiles.setCurrentTilemap(tilemap`Tilemap 7`)
     } else {
-        game.splash("Øv! Forkert svar")
-        info.changeLifeBy(-1)
-        tiles.setCurrentTilemap(tilemap`Tilemap 7`)
+        if (Question == "Papegøjen") {
+            game.splash("Tillykke! Du har fået et point...")
+            info.changeScoreBy(1)
+            tiles.setCurrentTilemap(tilemap`Tilemap 7`)
+        } else {
+            if (Question == "papegøje") {
+                game.splash("Tillykke! Du har fået et point...")
+                info.changeScoreBy(1)
+                tiles.setCurrentTilemap(tilemap`Tilemap 7`)
+            } else {
+                if (Question == "Papegøje") {
+                    game.splash("Tillykke! Du har fået et point...")
+                    info.changeScoreBy(1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 7`)
+                } else {
+                    game.splash("Øv! Forkert svar")
+                    info.changeLifeBy(-1)
+                    tiles.setCurrentTilemap(tilemap`Tilemap 7`)
+                }
+            }
+        }
     }
 }
-let Q1 = ""
+let Question = ""
 let questionNumber = 0
 game.showLongText("Velkommen til Jungle Quiz! Du er en eventyrer der er faret vild i junglen - find vej ud af junglen ved at teste din viden.        Du har 3 liv og får point for hvert korrekte svar - Held og lykke!", DialogLayout.Center)
-game.showLongText("Skriv dine svar med småt i bestemt form. Eks. \"junglen\"", DialogLayout.Bottom)
 let mySprite = sprites.create(assets.image`jungleman`, SpriteKind.Player)
 mySprite.setPosition(12, 19)
 controller.moveSprite(mySprite)
